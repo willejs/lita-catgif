@@ -1,5 +1,7 @@
 # lita-catgif
 
+[![Build Status](https://travis-ci.org/willejs/lita-catgif.png)](https://travis-ci.org/willejs/lita-catgif)
+
 
 ## Installation
 
