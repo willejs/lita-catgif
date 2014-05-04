@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-catgif"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Will Salt"]
   spec.email         = ["williamejsalt@gmail.com"]
   spec.description   = %q{A Lita handler that displays awesome animated cat gifs.}
